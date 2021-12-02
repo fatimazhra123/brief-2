@@ -1,0 +1,37 @@
+header {
+    background-color: rgb(29, 218, 155);
+    font-size: 60px;
+    text-align : center;
+    color:azure;
+    width:  40%;
+    margin:auto;
+    
+
+}
+  
+
+nav {
+    background-color: rgb(29, 218, 155);
+    font-size: 60px;
+    text-align : center;
+    width: 40%;
+    color:azure;
+    margin:auto;
+}
+
+section{
+    background-color: rgb(29, 218, 155);
+    font-size: 60px;
+    text-align : center;
+    color:azure;
+    width: 40%;
+    margin:auto;
+}
+footer{
+    background-color: rgb(29, 218, 155);
+    font-size: 60px;
+    text-align : center;
+    color:azure;
+    width: 40%;
+    margin: auto;
+}
