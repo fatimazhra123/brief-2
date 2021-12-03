@@ -1,0 +1,13 @@
+.border{
+    border: 2px solid;
+    height: auto;
+    width: 200px;
+    padding: 20px;
+
+}
+h2{
+    color: rgb(201, 181, 181);
+}
+h4{
+    color: rgb(32, 148, 84);
+}
