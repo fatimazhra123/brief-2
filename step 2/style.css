@@ -1,0 +1,26 @@
+ul {
+list-style: none;
+color: black; 
+display: flex;
+  
+}
+
+li{
+ color: rgb(201, 181, 181);
+ font-size :20px;
+ list-style: none;
+ display: flex;
+}
+
+
+a {
+    color: rgb(8, 8, 8);
+text-decoration: none;
+    padding:0 10px;
+   text-align: justify;
+   display: flex;
+
+}
+a:hover{
+    text-decoration:underline;
+}
